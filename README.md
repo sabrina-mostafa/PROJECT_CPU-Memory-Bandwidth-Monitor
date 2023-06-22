@@ -8,3 +8,6 @@ This project was designed:
     2. In a CLI (Command Line Interface).
     
     3. Shows updated measurements in each 0.5 second.
+
+# Presentation Link :
+https://docs.google.com/presentation/d/1Mb5MNCIc8EX2KkMEIIjOBGI2PhRv94oswwvwdhOUo5M/edit?usp=sharing
